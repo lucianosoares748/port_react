@@ -2,8 +2,10 @@ import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 
 const NavBar = () => {
+  // creating the hook to add effect to the icon
   const [nav, setNav] = useState(false);
 
+  // creating a variable to store the objects presented in the header
   const links = [
     {
       id: 1,
@@ -26,7 +28,9 @@ const NavBar = () => {
       link: "contact",
     },
   ];
-
+  // mapping the variable with the objects, to render through the id l:38 => l47
+  // inside onclick defining the setNave variable and creating the logic of the function that will toggle open and closed icons l:50 => l:55
+  // creating the way links will be presented on mobile, defining the difference in style from mobile to web with open and closed menu l:58 => l:69
   return (
     <div className="flex justify-between items-center w-full h-20 text-white px-4 bg-black fixed">
       <div>
