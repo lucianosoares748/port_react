@@ -10,12 +10,12 @@ export const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
-            I' am a front-end developer
+            Eu sou um desenvolvedor front-end
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I've been studying web development for a year now, in the front-end
-            developer area. Currently, I love working on web applications using
-            technologies like React, Tailwind, Next.JS, JavaScript and
+            Estou estudando desenvolvimento web há um ano, na área de
+            desenvolvedor front-end. Atualmente, adoro trabalhar em aplicações
+            web usando tecnologias como React, Tailwind, Next.JS, JavaScript e
             typescript.
           </p>
 
