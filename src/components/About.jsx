@@ -13,10 +13,10 @@ const About = () => {
               About
             </p>
           </div>
-          Olá me chamo Luciano dos Santos Soares, tenho 25 anos e moro
+          Olá, me chamo Luciano dos Santos Soares, tenho 25 anos e moro
           atualmente em Bataguassu-MS, desde muito pequeno sempre tive
-          curiosidade, e interesse pela área da tecnologia, voltada para jogos,
-          meu circulo de amizades sempre tiveram pessoas que também tinham
+          curiosidade e interesse pela área da tecnologia voltada para jogos,
+          meu circulo de amizades sempre teve pessoas que também tinham
           interesse por essa área ou que já estavam trilhando um caminho rumo a
           carreira da tecnologia
         </p>
@@ -24,10 +24,10 @@ const About = () => {
         <br></br>
 
         <p className="text-xl">
-          No inicio de 2022 eu tive meu primeiro contato com uma linha de código
+          No inicio de 2022, eu tive meu primeiro contato com linha de código
           através de um curso gratuito na Rocketseat indicado por um amigo
           desenvolvedor, depois de um tempo estudando me identifiquei mais ainda
-          com a área da tecnologia desde então todos os dias venho estudando,
+          com a área da tecnologia, desde então todos os dias venho estudando,
           adquirindo curso e aprendendo algo relacionado a esse lifestyle de
           desenvolvedor, comecei com o básico html, css, javascript, atualmente
           estudo React.js, next.js, javascript e typescript. Para o futuro tenho
