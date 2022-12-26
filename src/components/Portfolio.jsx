@@ -1,5 +1,5 @@
 import React from "react";
-import { proHome } from "../assets/portfolio/proHome.png";
+import proHome from "../assets/portfolio/proHome.png";
 
 const Portfolio = () => {
   const portfolios = [
