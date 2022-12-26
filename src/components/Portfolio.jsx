@@ -11,7 +11,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: arrayDestruct,
-      link: "https://darling-frangipane-42c5a1.netlify.app/",
+      url: "https://darling-frangipane-42c5a1.netlify.app/",
     },
     {
       id: 2,
@@ -49,21 +49,21 @@ const Portfolio = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {portfolios.map(({ id, src, link }) => (
+          {portfolios.map(({ id, src, url }) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
-                alt=""
+                alt="imagem do perfil do projeto"
                 className="rounded-md duration-200 hover:scale-105"
               />
               <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
-                </button>
                 <button
-                  onClick={link}
+                  to={url}
                   className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105"
                 >
+                  Demo
+                </button>
+                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Code
                 </button>
               </div>
