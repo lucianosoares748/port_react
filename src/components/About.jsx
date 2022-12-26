@@ -13,26 +13,26 @@ const About = () => {
               About
             </p>
           </div>
-          Olá eu chamo Luciano dos Santos Soares, tenho 25 anos e moro
+          Olá eu me chamo Luciano dos Santos Soares, tenho 25 anos e moro
           atualmente em Bataguassu-MS, desde muito pequeno sempre tive
-          curiosidade, e interesse pela areá da tecnologia, para jogos, e
-          aprendizagem, minha circulo de amizades sempre tiveram pessoas também
-          que tinham interesse ou que já estavam trilhando um caminho rumo a
-          areá da tecnologia
+          curiosidade, e interesse pela área da tecnologia, voltada para jogos,
+          meu circulo de amizades sempre tiveram pessoas que também tinham
+          interesse por essa área ou que já estavam trilhando um caminho rumo a
+          carreira da tecnologia
         </p>
 
         <br></br>
 
         <p className="text-xl">
           No inicio de 2022 eu tive meu primeiro contato com uma linha de código
-          através de um curso gratuito na Rocketseat indicada por um amigo
+          através de um curso gratuito na Rocketseat indicado por um amigo
           desenvolvedor, depois de um tempo estudando me identifiquei mais ainda
-          com a área da tecnologia desde então todos os dias venho estudando, e
-          aprendendo algo relacionado a esse lifestyle, comecei com o básico
-          html, css, javascript, atualmente estudo React.js, next.js, javascript
-          e typescript. Para o futuro tenho ambições como me tornar um
-          desenvolvedor mobile, e também back end atingindo o objetivo de
-          desenvolvedor Full-stack
+          com a área da tecnologia desde então todos os dias venho estudando,
+          adquirindo curso e aprendendo algo relacionado a esse lifestyle de
+          desenvolvedor, comecei com o básico html, css, javascript, atualmente
+          estudo React.js, next.js, javascript e typescript. Para o futuro tenho
+          ambições como me tornar um desenvolvedor mobile, e também back end,
+          atingindo o meu objetivo de se tornar um desenvolvedor Full-stack.
         </p>
       </div>
     </div>
