@@ -2,6 +2,8 @@ import React from "react";
 import proHome from "../assets/portfolio/proHome.png";
 import todoList from "../assets/portfolio/todoList.png";
 import searchCards from "../assets/portfolio/searchCards.png";
+import amorPage from "../assets/portfolio/amorPage.png";
+import calculateJs from "../assets/portfolio/calculateJs.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -23,14 +25,18 @@ const Portfolio = () => {
       url: "https://neon-donut-f39ec7.netlify.app/",
       url2: "https://github.com/lucianosoares748/react.js-_init",
     },
-    // {
-    //   id: 4,
-    //   src: reactSmooth,
-    // },
-    // {
-    //   id: 5,
-    //   src: installNode,
-    // },
+    {
+      id: 4,
+      src: amorPage,
+      url: "https://amandiinhamakeup.netlify.app/",
+      url2: "https://github.com/lucianosoares748/Makeup",
+    },
+    {
+      id: 5,
+      src: calculateJs,
+      url: "https://vocal-donut-f15a9e.netlify.app/",
+      url2: "https://github.com/lucianosoares748/calculadora",
+    },
     // {
     //   id: 6,
     //   src: reactWeather,
