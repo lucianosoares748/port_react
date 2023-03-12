@@ -14,25 +14,23 @@ const About = () => {
             </p>
           </div>
           Olá, me chamo Luciano dos Santos Soares, tenho 25 anos e moro
-          atualmente em Bataguassu-MS, desde muito pequeno sempre tive
-          curiosidade e interesse pela área da tecnologia voltada para jogos,
-          meu circulo de amizades sempre teve pessoas que também tinham
-          interesse por essa área ou que já estavam trilhando um caminho rumo a
-          carreira da tecnologia
+          atualmente em Bataguassu-MS, estudo programação a cerca de um ano após
+          um amigo meu me incentivar, nós sempre fomos muito ligados e sempre
+          compartilhamos coisas relacionadas a tecnologia em um grupo de amigos
+          antigo da escola desde 2014 até hoje. Iniciei estudando o básico Html,
+          CSS e Java script, e foi ai que eu percebi que queria ser DEV.
         </p>
 
         <br></br>
 
         <p className="text-xl">
-          No inicio de 2022, eu tive meu primeiro contato com linha de código
-          através de um curso gratuito na Rocketseat indicado por um amigo
-          desenvolvedor, depois de um tempo estudando me identifiquei mais ainda
-          com a área da tecnologia, desde então todos os dias venho estudando,
-          adquirindo curso e aprendendo algo relacionado a esse lifestyle de
-          desenvolvedor, comecei com o básico html, css, javascript, atualmente
-          estudo React.js, next.js, javascript e typescript. Para o futuro tenho
-          ambições como me tornar um desenvolvedor mobile, e também back end,
-          atingindo o meu objetivo de se tornar um desenvolvedor Full-stack.
+          Hoje eu continuo me capacitando a procura da primeira oportunidade da
+          área, iniciei graduação em Sistema da informação, continuo estudando e
+          fazendo cursos para capacitação e melhor entrega de serviços sempre,
+          tecnologia é isso. Tenho a ambição me tornar desenvolvedor fullstack,
+          amo aprender e desenvolver para usuários que queiram ter uma ótima
+          experiência no seu dia a dia com algo desenvolvido por mim. Agora só
+          falta entrar para um time, e poder fazer parte de uma familia Dev.
         </p>
       </div>
     </div>
